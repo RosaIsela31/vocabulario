@@ -2,7 +2,7 @@ import React from "react";
 
 const Input = () => {
   return (
-    <div className="mb-3">
+    <div className="mb-3 text-center">
       <fieldset>
         <label for="word">Nueva Palabra</label>
         <input
