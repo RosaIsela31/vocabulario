@@ -1,4 +1,4 @@
-import { BrowserRouter, Switch, Route, NavLink } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Form from "./blocks/Form";
 import Mock from "./blocks/Mock";
 import "./App.css";
