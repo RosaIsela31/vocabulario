@@ -3,7 +3,7 @@ import { Button, Input } from "../../components";
 
 const Form = () => {
   return (
-    <form>
+    <form className="w-50 p-3">
       <Input />
       <Button />
     </form>
